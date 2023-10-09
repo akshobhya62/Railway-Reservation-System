@@ -22,8 +22,3 @@ Now, type `localhost/railapp` in the address bar of the browser.
 - Book ticket
 - Find PNR details
 - Dark mode theme
-
-## Team
-- [Aman Bilaiya](https://github.com/mnb27)
-- [Akshat Goel](https://github.com/akshatgoel18)
-- [Prateek Saini](https://github.com/prateek697)
